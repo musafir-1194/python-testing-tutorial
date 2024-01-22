@@ -8,6 +8,8 @@ PS> python -m venv venv
 PS> .\venv\Scripts\activate
 (venv) PS> python -m pip install pytest
 
+(venv) PS> pip install -r requirements.txt
+
 
 ## Arrange-Act-Assert model
 1. Arrange, or set up, the conditions for the test
